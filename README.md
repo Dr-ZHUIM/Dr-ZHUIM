@@ -9,6 +9,8 @@ Outside of programming, i enjoy doing paints and travaling. If you are intereste
 - 🌱 I’m currently learning Nest.js and React.js.
 - 👯 I’m looking to collaborate on Vite plugins.
 - 📫 How to reach me: a372919916@gmail.com
+- 
+![Visitor Count](https://profile-counter.glitch.me/Dr-ZHUIM/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-ZHUIM)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-ZHUIM&layout=compact)](https://github.com/Dr-ZHUIM/github-readme-stats)
 
