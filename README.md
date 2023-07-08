@@ -10,3 +10,5 @@ Outside of programming, i enjoy doing paints and travaling. If you are intereste
 - 👯 I’m looking to collaborate on Vite plugins.
 - 📫 How to reach me: a372919916@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-ZHUIM)](https://github.com/Christmas/github-readme-stats)
+
