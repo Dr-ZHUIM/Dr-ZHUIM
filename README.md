@@ -16,5 +16,5 @@ Outside of programming, i enjoy doing paints and travaling. If you are intereste
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-ZHUIM&layout=compact)](https://github.com/Dr-ZHUIM/github-readme-stats)
 
-### My Codeium
+### Code Tools
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
